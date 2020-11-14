@@ -1,0 +1,4 @@
+<ruleset name="GlobaLeaks">
+  <target host="globaleaks.tor.onion" />
+  <rule from="^http[s]?:\/\/([a-z0-9\-]+[.])?globaleaks.tor.onion" to="http://$1vnchbkzryteygshp53p6zfya7jyrzaugjzmfwtejh4acnaxnm47t2nad.onion" />
+</ruleset>

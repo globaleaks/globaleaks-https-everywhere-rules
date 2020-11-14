@@ -1,0 +1,4 @@
+<ruleset name="ALAC by Transparency International">
+  <target host="alac.ti.globaleaks.tor.onion" />
+  <rule from="^http[s]?:\/\/([a-z0-9\-]+[.])?alac.ti.globaleaks.tor.onion" to="http://$116mtpitbzk65stxaa5ors3pv5gt34ckhq4onzfzrqkutvvp4s5kf6e2id.onion" />
+</ruleset>

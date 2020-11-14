@@ -1,0 +1,4 @@
+<ruleset name="WhistleblowingPA by Transparency International Italia">
+  <target host="wbpa.globaleaks.tor.onion" />
+  <rule from="^http[s]?:\/\/([a-z0-9\-]+[.])?wbpa.globaleaks.tor.onion" to="http://$11dwfxaf2g6spiya22korhkw5rbgkvxkyxbsbqgao6sgst3pp34shc4gqd.onion" />
+</ruleset>
